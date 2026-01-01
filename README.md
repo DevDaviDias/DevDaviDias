@@ -15,18 +15,20 @@
 
 ## 💻 GitHub Stats
 
-<p align="center">
+<p align="left" display="flex">
   <!-- Estatísticas gerais -->
   <a href="https://github.com/DevDaviDias">
-    <img alt="Estatísticas do GitHub" src="https://dev-davi-dias-kwnttkl0d-dias-projects-e25db624.vercel.app/api/?username=DevDaviDias&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=BB86FC" height="192px" width="430px">
+    <img alt="Davi's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DevDaviDias&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px">
   </a>
 
-  <!-- Top linguagens (JS) -->
+  <!-- Top linguagens -->
   <a href="https://github.com/DevDaviDias">
-    <img alt="Top Linguagens" src="https://dev-davi-dias-kwnttkl0d-dias-projects-e25db624.vercel.app/api/top-langs/?username=DevDaviDias&langs_count=1&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=BB86FC" height="192px" width="360px">
+    <img alt="Davi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DevDaviDias&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px">
   </a>
 </p>
 
 <!-- Nota opcional -->
 <!-- <b>Nota:</b> <i>Top languages mostra apenas os códigos públicos e não reflete necessariamente experiência ou habilidade.</i> -->
+
+
 
