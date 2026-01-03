@@ -12,43 +12,21 @@
 ![GitHub SEGUIDORES](https://img.shields.io/github/followers/DevDaviDias?style=for-the-badge&labelColor=6F42C1&color=BB86FC)
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?devdavidias=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+## 💻 GitHub Stats
 
+<p align="center">
+  <!-- Estatísticas gerais -->
+  <a href="https://github.com/DevDaviDias">
+    <img alt="Estatísticas do GitHub" src="https://dev-davi-dias-kwnttkl0d-dias-projects-e25db624.vercel.app/api/?username=DevDaviDias&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=BB86FC" height="192px" width="430px">
+  </a>
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+  <!-- Top linguagens (JS) -->
+  <a href="https://github.com/DevDaviDias">
+    <img alt="Top Linguagens" src="https://dev-davi-dias-kwnttkl0d-dias-projects-e25db624.vercel.app/api/top-langs/?username=DevDaviDias&langs_count=1&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=BB86FC" height="192px" width="360px">
+  </a>
+</p>
 
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
-
-
+<!-- Nota opcional -->
+<!-- <b>Nota:</b> <i>Top languages mostra apenas os códigos públicos e não reflete necessariamente experiência ou habilidade.</i> -->
 
