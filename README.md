@@ -1,31 +1,47 @@
 # 👋 Olá, eu sou o Davi de Jesus Dias
 
-Sou desenvolvedor web com foco em front-end, criando interfaces modernas, responsivas e funcionais. Tenho experiência com desenvolvimento de aplicações web e estou sempre buscando evoluir tecnicamente e construir projetos cada vez mais completos.
+💻 Desenvolvedor Web focado em criar interfaces modernas, responsivas e aplicações completas com integração entre front-end, back-end e banco de dados.
 
-## 🚀 Tecnologias & Ferramentas
-- HTML5, CSS3, JavaScript
-- React, Next.js
-- Node.js, Express
-- PostgreSQL
-- Git e GitHub
+Sou apaixonado por tecnologia, boas práticas de código e aprendizado contínuo. Busco evoluir como desenvolvedor e construir soluções reais que gerem valor.
+
+---
+
+## 🔗 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdavidias)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bit.ly/DevDaviDias)
+
+---
+
+## 🧠 Linguagens & Tecnologias
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,postgres,git,github" />
+</p>
+
+---
 
 ## 📌 Projetos em Destaque
-- 💼 Sistema de Ordens de Serviço  
+- 💼 **Sistema de Ordens de Serviço**  
   Aplicação web com autenticação, CRUD completo e banco de dados relacional.
 
-- 🐾 Plataforma de Adoção de Pets  
+- 🐾 **Plataforma de Adoção de Pets**  
   Sistema para cadastro e adoção de animais, com foco em usabilidade.
 
-- 💻 Portfólio Pessoal  
-  Site para apresentar meus projetos, habilidades e evolução como desenvolvedor.
+- 🌐 **Portfólio Pessoal**  
+  Site desenvolvido para apresentar projetos, habilidades e evolução técnica.
+
+---
 
 ## 📈 Em constante evolução
-Atualmente focado em:
-- Boas práticas de código
+Atualmente estudando e praticando:
 - Arquitetura de aplicações web
-- Integração entre front-end e back-end
-- Banco de dados relacionais
+- Integração Front-end e Back-end
+- Banco de dados relacionais (PostgreSQL)
+- Boas práticas e código limpo
 
-## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/devdavidias
-- Portfólio: https://bit.ly/DevDaviDias
+---
+
+## 📊 Estatísticas do GitHub
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevDaviDias&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaviDias&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
