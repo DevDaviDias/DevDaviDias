@@ -1,8 +1,6 @@
-# 👋 Olá, eu sou o Davi de Jesus Dias
+# 👨‍💻 Davi Dias
 
-💻 Desenvolvedor Web focado em criar interfaces modernas, responsivas e aplicações completas com integração entre front-end, back-end e banco de dados.
-
-Sou apaixonado por tecnologia, boas práticas de código e aprendizado contínuo. Busco evoluir como desenvolvedor e construir soluções reais que gerem valor.
+💻 💻 Desenvolvedor de Software | Apaixonado por desafios e resolução de problemas. Código limpo, soluções eficientes
 
 ---
 
