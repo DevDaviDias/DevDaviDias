@@ -16,4 +16,6 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDaviDias&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devdavidias&show_icons=true&theme=github_dark" />
+</p>
