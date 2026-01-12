@@ -16,11 +16,22 @@
 
 
 
-## 📊 Minhas Estatísticas
+## 📊 Minhas Estatísticas no GitHub
 
-<div>
-<a href="https://github.com/DevDaviDias">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p float="left" align="center">
+  <!-- Top linguagens -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaviDias&layout=compact&langs_count=7&theme=radical" width="48%" />
+  
+  <!-- Stats gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DevDaviDias&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" />
+</p>
+
+<p float="left" align="center">
+  <!-- Contribuições diárias / streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevDaviDias&theme=radical" width="48%" />
+  
+  <!-- Seguidores e estrelas com badges -->
+  <img src="https://img.shields.io/github/followers/DevDaviDias?style=for-the-badge&label=Seguidores&labelColor=6F42C1&color=BB86FC" width="23%" />
+  <img src="https://img.shields.io/github/stars/DevDaviDias?style=for-the-badge&label=Estrelas&labelColor=6F42C1&color=BB86FC" width="23%" />
+</p>
 
