@@ -4,12 +4,13 @@
   Sou movido por aprendizado contínuo, gosto de desafios e estou sempre buscando evoluir tecnicamente para entregar soluções eficientes e bem estruturadas.
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdavidias)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devdavidias.com.br)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devdavidias)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdavidias)
+[![PORTFÓLIO](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devdavidias.com.br)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devdavidias)
 
-![GitHub Followers](https://img.shields.io/github/followers/DevDaviDias?style=for-the-badge&labelColor=6F42C1&color=BB86FC)
-![GitHub Stars](https://img.shields.io/github/stars/DevDaviDias?style=for-the-badge&labelColor=FF9800&color=FFD180)
+![GitHub ESTRELAS](https://img.shields.io/github/stars/DevDaviDias?style=for-the-badge&labelColor=FF9800&color=FFD180)
+![GitHub SEGUIDORES](https://img.shields.io/github/followers/DevDaviDias?style=for-the-badge&labelColor=6F42C1&color=BB86FC)
+
 
 
 
