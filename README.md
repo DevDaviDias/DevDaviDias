@@ -8,8 +8,9 @@
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devdavidias.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devdavidias)
 
-![GitHub Followers](https://img.shields.io/github/followers/DevDaviDias?style=for-the-badge&color=6f42c1&labelColor=6f42c1&logoColor=white)
-![GitHub Stars](https://img.shields.io/github/stars/DevDaviDias?style=for-the-badge&color=6f42c1&labelColor=6f42c1&logoColor=white)
+![GitHub Followers](https://img.shields.io/github/followers/DevDaviDias?style=for-the-badge&color=C9A3FF)
+![GitHub Stars](https://img.shields.io/github/stars/DevDaviDias?style=for-the-badge)
+
 
 
 
