@@ -16,10 +16,32 @@
 
 
 
-## 🧠 Linguagens & Tecnologias
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,postgres,git,github" />
-</p>
+## 📊 Minhas Estatísticas
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+<!-- Card 1: Seguidores -->
+<div align="center">
+  ![Seguidores](https://img.shields.io/github/followers/DevDaviDias?style=for-the-badge&label=Seguidores&labelColor=6F42C1&color=BB86FC)
+</div>
+
+<!-- Card 2: Estrelas -->
+<div align="center">
+  ![Estrelas](https://img.shields.io/github/stars/DevDaviDias?style=for-the-badge&label=Estrelas&labelColor=6F42C1&color=BB86FC)
+</div>
+
+<!-- Card 3: Stats gerais -->
+<div align="center">
+  ![Stats](https://github-readme-stats.vercel.app/api?username=DevDaviDias&show_icons=true&theme=radical&count_private=true&hide_title=false)
+</div>
+
+<!-- Card 4: Contribuições -->
+<div align="center">
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevDaviDias&theme=radical)
+</div>
+
+</div>
+
 
 ---
 
