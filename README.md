@@ -1,6 +1,8 @@
 # 👨‍💻 Davi Dias
 
-💻  Desenvolvedor de Software | Apaixonado por desafios e resolução de problemas. Código limpo, soluções eficientes
+💻 Tenho 27 anos e sou desenvolvedor de software com foco em desenvolvimento web, utilizando JavaScript, TypeScript, React.js e Node.js. Desenvolvo aplicações modernas, consumo APIs REST e crio interfaces reutilizáveis, sempre seguindo boas práticas e organização de código.
+
+Sou movido por aprendizado contínuo, gosto de desafios e estou sempre buscando evoluir tecnicamente para entregar soluções eficientes e bem estruturadas.
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdavidias)
