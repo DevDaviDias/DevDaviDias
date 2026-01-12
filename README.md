@@ -25,6 +25,19 @@
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devdavidias&show_icons=true&theme=github_dark" />
-</p>
+## 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+
+<!-- Card de Stats gerais -->
+![Davi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDaviDias&show_icons=true&theme=radical&count_private=true)
+
+<!-- Card de Streak / Contribuições -->
+![Davi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevDaviDias&theme=radical)
+
+<!-- Badges de followers e stars -->
+![Seguidores](https://img.shields.io/github/followers/DevDaviDias?style=for-the-badge&label=Seguidores&labelColor=6F42C1&color=BB86FC)
+![Estrelas](https://img.shields.io/github/stars/DevDaviDias?style=for-the-badge&label=Estrelas&labelColor=6F42C1&color=BB86FC)
+
+</div>
+
